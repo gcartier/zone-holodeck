@@ -1,0 +1,17 @@
+;;;==============
+;;;  JazzScheme
+;;;==============
+;;;
+;;;; Zone
+;;;
+
+
+(data jazz
+
+
+(version 1 4)
+(import world.data)
+
+
+(form
+  (<Zone> start-time: night sun-cycle?: #f start-mode: first-person start-distance: 3.5 first-time?: #f seed: 7721197042528425034)))
